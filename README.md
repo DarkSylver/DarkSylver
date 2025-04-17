@@ -1,6 +1,30 @@
-# 👋 Hi, I'm Cristian M. Zangaro
+<!-- Profile header -->
 
-🧠 Software Architect | ⚙️ .NET Specialist | 🚀 Passionate about continuous improvement
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=DarkSylver&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+</p>
+
+<h1 align="center">Hi, I'm Cristian M. Zangaro (@DarkSylver)</h1>
+
+<p align="center">
+  🧠 Software Architect • ⚙️ .NET Specialist • 🚀 Passionate about clean, scalable solutions
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=DarkSylver&show_icons=true&theme=tokyonight&hide=issues&count_private=true" alt="GitHub stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DarkSylver&theme=tokyonight" alt="GitHub streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DarkSylver&layout=compact&theme=tokyonight&hide=html" alt="Top languages" />
+</p>
 
 ---
 
@@ -45,9 +69,11 @@ I believe in clear documentation, expressive code, and well-reasoned technical d
 
 ---
 
-# 👋 ¡Hola! Soy Cristian M. Zangaro
+<h1 align="center"># 👋 ¡Hola! Soy Cristian M. Zangaro (@DarkSylver)</h1>
 
-🧠 Arquitecto de Software | ⚙️ Especialista en .NET | 🚀 Apasionado por la mejora continua
+<p align="center">
+  🧠 Arquitecto de Software | ⚙️ Especialista en .NET | 🚀 Apasionado por la mejora continua
+</p>
 
 ---
 
