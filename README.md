@@ -15,16 +15,22 @@
 ## 📊 GitHub Stats
 
 <p align="center">
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=DarkSylver&theme=tokyonight" alt="GitHub streak" />
+</p>
+
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=DarkSylver&show_icons=true&theme=tokyonight&hide=issues&count_private=true" alt="GitHub stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=DarkSylver&theme=tokyonight" alt="GitHub streak" />
+  <img align="center" src="https://github-trophies.vercel.app/?username=DarkSylver&column=6&theme=algolia" alt="DarkSylver" />
 </p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DarkSylver&layout=compact&theme=tokyonight&hide=html" alt="Top languages" />
 </p>
+
+ ![DarkSylver's GitHub activity graph]( https://github-readme-activity-graph.vercel.app/graph?username=DarkSylver&theme=react-dark&area=true&hide_border=true#gh-light-mode-only)
 
 ---
 
@@ -138,3 +144,7 @@ Creo en la documentación clara, el código expresivo y las decisiones técnicas
 ---
 
 > *"La simplicidad no es quitar código, es eliminar lo innecesario para que lo importante se entienda mejor."*
+
+
+
+![NewWave](https://user-images.githubusercontent.com/81550376/180223136-576934f8-2f40-4fb9-acd9-786d1d5d0f73.svg)
