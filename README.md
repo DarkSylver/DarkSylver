@@ -19,7 +19,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DarkSylver&theme=tokyonight" alt="GitHub streak" />
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=DarkSylver&theme=tokyonight" alt="GitHub streak" />
 </p>
 
 <p align="center">
