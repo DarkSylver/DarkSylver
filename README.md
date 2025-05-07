@@ -23,7 +23,7 @@
 </p>
 
 <p align="center">
-  <img align="center" src="https://github-trophies.vercel.app/?username=DarkSylver&column=999&theme=algolia&rank=SECRET,SSS,SS,S,AAA,AA,A" alt="DarkSylver" />
+  <img align="center" src="https://github-trophies.vercel.app/?username=DarkSylver&column=8&theme=algolia&rank=SECRET,SSS,SS,S,AAA,AA,A" alt="DarkSylver" />
 </p>
 
 <p align="center">
