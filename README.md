@@ -30,12 +30,10 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DarkSylver&layout=compact&theme=tokyonight&hide=html" alt="Top languages" />
 </p>
 
- ![DarkSylver's GitHub activity graph]( https://github-readme-activity-graph.vercel.app/graph?username=DarkSylver&theme=react-dark&area=true&hide_border=true#gh-light-mode-only)
-
+![DarkSylver's GitHub activity graph]( https://github-readme-activity-graph.vercel.app/graph?username=DarkSylver&theme=react-dark&area=true&hide_border=true#gh-light-mode-only)
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/033876b1-70aa-4f95-9803-eeb3ef831f56" alt="* Since you are a large-scale contributor, only public contributions to your repositories are shown.">
+  <sub>* Since you are a large-scale contributor, only public contributions to your repositories are shown.</sub>
 </p>
-
 
 ---
 
